@@ -43,7 +43,4 @@ This repository contains the complete lab reports and documentation for **Labs 4
 * Captured and analyzed network behavior during `-j DROP` rule enforcement.
 * Correlated client application timeouts (`curl: (28) Connection timed out`) with packet retransmissions and `iptables` byte counter statistics.
 
----
-
-## License & Compliance Notice
-This repository is submitted solely for educational and assessment purposes as part of the ICDFA CIP-B103 coursework. Evidence files, PCAPs, and confidential user details have been processed and redacted in accordance with assessment guidelines.
+-
